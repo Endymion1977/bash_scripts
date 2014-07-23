@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /opt/repos
 echo "Creating directory..."
 mkdir $1
 cd $1
